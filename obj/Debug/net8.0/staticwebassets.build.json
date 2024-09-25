@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "tnce8zi9Q9WRjWvjQ1sQmD4UOAXJGpqOd5srxTKuyJY=",
+  "Source": ".",
+  "BasePath": "_content/.",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": ".\\wwwroot",
+      "Source": ".",
+      "ContentRoot": "D:\\Dosuments\\Ultimate-TS\\image_prac\\wwwroot\\",
+      "BasePath": "_content/.",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
